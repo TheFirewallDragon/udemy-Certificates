@@ -1,6 +1,6 @@
 <h1>udemy Certificates</h1>
 <p>
-Below is a complete list of all certificate I have earned on <a href="https://www.udemy.com/">udemy</a>, totaling 4 so far. I also wrote consice resumes explaining the value I gained from each course. 
+Below is a complete list, in alphabetical order, of all certificates I have earned on <a href="https://www.udemy.com/">udemy</a>, totaling 4 so far. I also wrote consice resumes explaining the value I gained from each course. 
 </p>
 <ul>
   <li>The Complete Cyber Security Course: Anonymous Browsing!</li>
